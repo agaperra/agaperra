@@ -17,7 +17,6 @@
       />
   </picture>
   </div>
-  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=agaperra&label=Profile%20Visits&style=for-the-badge" />
   <br>
   <a href="https://t.me/agaperra">
     <img src="https://img.shields.io/badge/-Channel-1a1b27?style=for-the-badge&logo=telegram" alt="Telegram channel">
