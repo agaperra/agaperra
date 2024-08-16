@@ -48,7 +48,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div id="stats" align="center" style="display: flex; flex-direction: column;">
-    <h2>:fire: My statistic</h2>
+    <h2>My statistic</h2>
     <a style="display: flex; align-items: center;">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agaperra&theme=dark" alt="GitHub Profile Summary" style="margin-bottom: 10px;" />
     </a>
